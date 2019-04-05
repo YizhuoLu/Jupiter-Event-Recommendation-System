@@ -22,7 +22,7 @@ public class TicketMasterAPI {
 	// from it.
 	private static final String URL = "https://app.ticketmaster.com/discovery/v2/events.json";
 	private static final String DEFAULT_KEYWORD = "";
-	private static final String API_KEY = "IAwiFhhOArqO8ADiyX2tvlbHmdhRVBUR";
+	private static final String API_KEY = "Your API key here";
 	
 	// add necessary fields to use Item class
 	private static final String EMBEDDED = "_embedded";

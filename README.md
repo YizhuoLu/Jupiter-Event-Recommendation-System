@@ -5,6 +5,7 @@
   Technique: Java servlet, HTML/CSS/JavaScript, MySQL, RESTful API, TicketMasterAPI.
   
 2. Design:
+
   A: Logic tier:
   I write three primary servlets to handle primary logic, they are ItemHistory, RecommendItem, SearchItem.
   a. SearchItem:

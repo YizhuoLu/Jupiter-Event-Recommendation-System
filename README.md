@@ -8,9 +8,9 @@
   
 2. Design:
 
-  A: Logic tier:
+  A: Logic tier:     
   
-  I write three primary servlets to handle primary logic, they are ItemHistory, RecommendItem, SearchItem.
+  I write three primary servlets to handle primary logic, they are ItemHistory, RecommkjhkhendItem, SearchItem.
   a. SearchItem:
      In order to show customers nearby events, I first send HTTP request to TicketMaster web server using TicketMaster API. (I user JSON as the format through the whole project). Based on the curstomer's geo-location, I can get a list of events and their information from TicketMaster. Each time when I get the relative list of events, I will automatically store them into my database.
    b. ItemHistory: 
